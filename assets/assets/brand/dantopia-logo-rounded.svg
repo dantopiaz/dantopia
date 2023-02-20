@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="70" viewBox="0 0 206 70"><defs><rect id="a" width="206" height="70" x="0" y="0" rx="8"/></defs><g fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><rect width="205" height="69" x=".5" y=".5" stroke="#979797" rx="8"/><g mask="url(#b)"><g transform="translate(86.335)"><rect width="119.665" height="70" fill="#000" fill-rule="nonzero"/><text font-family="Roboto-Bold, Roboto" font-size="48" font-weight="bold" letter-spacing=".64">
+                    <tspan x="2.995" y="51" fill="#FFF">topia</tspan>
+                </text></g></g><g mask="url(#b)"><rect width="86.335" height="70" fill="#FC00B4" fill-rule="nonzero"/><text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="48" font-weight="bold" letter-spacing=".64">
+                <tspan x="4.208" y="51">dan</tspan>
+            </text></g></g></svg>
